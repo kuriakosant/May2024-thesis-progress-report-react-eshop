@@ -79,6 +79,9 @@ Database: JSON , NON-SQL Firebase
  - StackOverflow forum assistance.
 
  # Credits to the following programmers for helping with code snippets, troubleshotting, implementation , templates , advice and encouragement:
+ 
+- https://github.com/saadeghi , pouya.saadeghi@gmail.com
+- Star daisyUI project on GitHub: https://github.com/saadeghi/daisyui
 -  https://github.com/ATILAY  ,   mayadagjs@gmail.com
 -  https://github.com/Durgesh63  ,  durgeshmaurya0998@gmail.com
 -  https://github.com/jgudo ,  juliusguevarra101@gmail.com
