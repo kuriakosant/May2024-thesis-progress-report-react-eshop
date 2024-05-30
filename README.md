@@ -35,21 +35,26 @@ Database: JSON , NON-SQL Firebase
    by opening a terminal of your choice and typing node -v , and npm -v , if you get the versions of node and npm displayed you are all set.
 
 2. Once youve installed Node.js and npm on your computer , you need to download the project , if you have git on your computer you can do this 
-   by typing git clone https://github.com/kuriakosant/PHP-Library-Index-App , inside a terminal . Alternatively you can download from my Git Repository.
+   by typing
+      ```
+      git clone  https://github.com/kuriakosant/thesis-progress-report-react-eshop.git
+      ```
+      
+    Alternatively you can download from my Git Repository.
 
-3. After downloading the project extract it if necessary and open a terminal of your choice , inside the terminal navigate to the projects root directory.
+4. After downloading the project extract it if necessary and open a terminal of your choice , inside the terminal navigate to the projects root directory.
 
-4. Install the required packages using the following command ( inside the terminal that has the directory open):
+5. Install the required packages using the following command ( inside the terminal that has the directory open):
    ```
    npm install
    ```
-5. After the package installation is complete , start the application by running the following command inside your terminal:
+6. After the package installation is complete , start the application by running the following command inside your terminal:
    ```
    npm start
    ```
    At this point the server should be running at the displayed port.
 
-6. Open any modern browser and navigate to the address: http://localhost:5173 (or whatever localhost:port you have configured) and enjoy :))
+7. Open any modern browser and navigate to the address: http://localhost:5173 (or whatever localhost:port you have configured) and enjoy :))
 
 ### Key Features:
 - Extensive Product Range: Offering items to cater to a diverse range of styles and preferences.
