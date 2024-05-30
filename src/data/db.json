@@ -1,0 +1,326 @@
+{
+  "products": [
+    {
+      "id": 204349751,
+      "name": "Test Shirt",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "test",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Test",
+          "userImage": "/src/assets/user profile photo 1 f.jpg",
+          "location": "Test",
+          "rating": 3,
+          "date": "February 21, 2021",
+          "reviewTitle": "Test",
+          "reviewText": "Test "
+        },
+        {
+          "username": "Test",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Test",
+          "rating": 3,
+          "date": "February 21, 2021",
+          "reviewTitle": "Test",
+          "reviewText": "Test "
+        },
+        {
+          "username": "Test",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Test",
+          "rating": 3,
+          "date": "February 21, 2021",
+          "reviewTitle": "Test",
+          "reviewText": "Test "
+        }
+      ],
+      "totalReviewCount": 3,
+      "productionDate": "2009-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 10,
+          "text": "$10.00"
+        }
+      },
+      "brandName": "test",
+      "productCode": 130429458,
+      "imageUrl": "https://i.pinimg.com/originals/f7/1c/5c/f71c5c1e89dbb27a7e840b6fb60932eb.png",
+      "additionalImageUrls": [
+        "https://img.freepik.com/premium-photo/black-tshirt-mockup-material_639744-20799.jpg"
+        
+      ]
+    },
+
+    {
+      "id": 204840047,
+      "name": "Puma Velophasis Phased sneakers in black",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "John",
+          "userImage": "/src/assets/user profile photo 1 f.jpg",
+          "location": "London ",
+          "rating": 3,
+          "date": "February 21, 2021",
+          "reviewTitle": "Good but..",
+          "reviewText": "Good product , but the quality isnt the best , not built to last "
+        },
+        {
+          "username": "Michael ",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Amsterdam ",
+          "rating": 5,
+          "date": "January 21, 2023",
+          "reviewTitle": "I would buy it again",
+          "reviewText": "Really satisfied , a great product overall"
+        },
+        {
+          "username": "Jack",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Kyoto",
+          "rating": 1,
+          "date": "April 21, 2024",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Horrendous product, do not buy this!"
+        }
+      ],
+      "totalReviewCount": 3,
+      "productionDate": "2009-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 50,
+          "text": "$50.00"
+        }
+      },
+      "brandName": "Puma",
+      "productCode": 130429458,
+      "imageUrl": "images.asos-media.com/products/puma-velophasis-phased-sneakers-in-black/204840047-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/puma-velophasis-phased-sneakers-in-black/204840047-1-black",
+        "images.asos-media.com/products/puma-velophasis-phased-sneakers-in-black/204840047-2",
+        "images.asos-media.com/products/puma-velophasis-phased-sneakers-in-black/204840047-3",
+        "images.asos-media.com/products/puma-velophasis-phased-sneakers-in-black/204840047-4"
+      ]
+    },
+    {
+      "id": 204525864,
+      "name": "Nike Air Force 1 '07 LV8 Mid sneakers in green and white",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46
+      ],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "John",
+          "userImage": "/src/assets/user profile photo 1 f.jpg",
+          "location": "London ",
+          "rating": 3,
+          "date": "February 21, 2021",
+          "reviewTitle": "Good but..",
+          "reviewText": "Good product , but the quality isnt the best , not built to last "
+        },
+        {
+          "username": "Michael ",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Amsterdam ",
+          "rating": 5,
+          "date": "January 21, 2023",
+          "reviewTitle": "I would buy it again",
+          "reviewText": "Really satisfied , a great product overall"
+        },
+        {
+          "username": "Jack",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Kyoto",
+          "rating": 1,
+          "date": "April 21, 2024",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Horrendous product, do not buy this!"
+        }
+      ],
+      "totalReviewCount": 5530,
+      "productionDate": "2021-10-31T09:00:00.594Z",
+      "price": {
+          "current": {
+              "value": 140,
+              "text": "$140.00"
+          }
+      },
+      "brandName": "Nike",
+      "productCode": 127493601,
+      "imageUrl": "images.asos-media.com/products/nike-air-force-1-07-lv8-mid-sneakers-in-green-and-white/204525864-1-midgreen",
+      "additionalImageUrls": [
+          "images.asos-media.com/products/nike-air-force-1-07-lv8-mid-sneakers-in-green-and-white/204525864-1-midgreen",
+          "images.asos-media.com/products/nike-air-force-1-07-lv8-mid-sneakers-in-green-and-white/204525864-2",
+          "images.asos-media.com/products/nike-air-force-1-07-lv8-mid-sneakers-in-green-and-white/204525864-3",
+          "images.asos-media.com/products/nike-air-force-1-07-lv8-mid-sneakers-in-green-and-white/204525864-4"
+      ]
+  },
+
+  {
+    "id": 204042462,
+    "name": "Columbia thistletown hills t-shirt in burgundy",
+    "description": "Demo description",
+    "isInStock": true,
+    "gender": "male",
+    "category": "clothing",
+    "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "rating": 2,
+    "reviews": [
+      {
+        "username": "John",
+        "userImage": "/src/assets/user profile photo 1 f.jpg",
+        "location": "London ",
+        "rating": 3,
+        "date": "February 21, 2021",
+        "reviewTitle": "Good but..",
+        "reviewText": "Good product , but the quality isnt the best , not built to last "
+      },
+      {
+        "username": "Michael ",
+        "userImage": "/src/assets/user profile photo 1.jpg",
+        "location": "Amsterdam ",
+        "rating": 5,
+        "date": "January 21, 2023",
+        "reviewTitle": "I would buy it again",
+        "reviewText": "Really satisfied , a great product overall"
+      },
+      {
+        "username": "Jack",
+        "userImage": "/src/assets/user profile photo 2.jpg",
+        "location": "Kyoto",
+        "rating": 1,
+        "date": "April 21, 2024",
+        "reviewTitle": "Very bad quality",
+        "reviewText": "Horrendous product, do not buy this!"
+      }
+    ],
+    "totalReviewCount": 3012,
+    "productionDate": "2022-10-31T09:00:00.594Z",
+    "price": {
+        "current": {
+            "value": 24.99,
+            "text": "$24.99"
+        }
+    },
+    "brandName": "Columbia",
+    "productCode": 124323827,
+    "imageUrl": "images.asos-media.com/products/columbia-thistletown-hills-t-shirt-in-burgundy/204042462-1-brown",
+    "additionalImageUrls": [
+        "images.asos-media.com/products/columbia-thistletown-hills-t-shirt-in-burgundy/204042462-1-brown",
+        "images.asos-media.com/products/columbia-thistletown-hills-t-shirt-in-burgundy/204042462-2",
+        "images.asos-media.com/products/columbia-thistletown-hills-t-shirt-in-burgundy/204042462-3",
+        "images.asos-media.com/products/columbia-thistletown-hills-t-shirt-in-burgundy/204042462-4"
+    ]
+}
+    
+  
+    
+  ],
+  "user": [
+    {
+      "id": "EDVYu6rC_G9SL9Z7-H9tr",
+      "name": "Kyriakos",
+      "lastname": "Antoniadis",
+      "email": "kuriakosant2003@gmai.com",
+      "phone": "12345678",
+      "adress": "test street 1",
+      "password": "123456789",
+      "userWishlist": [
+        {
+          "id": 204840047,
+          "title": "Puma Velophasis Phased sneakers in black",
+          "image": "images.asos-media.com/products/puma-velophasis-phased-sneakers-in-black/204840047-1-black",
+          "rating": 3,
+          "price": 130,
+          "brandName": "Puma",
+          "amount": 1,
+          "selectedSize": "XS",
+          "isInWishList": false
+        }
+      ]
+    },
+    {
+      "id": "jIFhNo80BebwUrX9kD_s-",
+      "name": "test1",
+      "lastname": "test2",
+      "email": "test@gmail.com",
+      "phone": "123456",
+      "adress": "test3",
+      "password": "test123",
+      "userWishlist": [
+        {
+          "id": 204840047,
+          "title": "Puma Velophasis Phased sneakers in black",
+          "image": "images.asos-media.com/products/puma-velophasis-phased-sneakers-in-black/204840047-1-black",
+          "rating": 3,
+          "price": 130,
+          "brandName": "Puma",
+          "amount": 1,
+          "selectedSize": "XS",
+          "isInWishList": false
+        }
+      ]
+    }
+  ],
+  "orders": [
+    
+      
+    {
+      "userId": "jIFhNo80BebwUrX9kD_s-",
+      "orderStatus": "in progress",
+      "subtotal": 130,
+      "cartItems": [
+        {
+          "id": 204840047,
+          "title": "Puma Velophasis Phased sneakers in black",
+          "image": "images.asos-media.com/products/puma-velophasis-phased-sneakers-in-black/204840047-1-black",
+          "rating": 3,
+          "price": 130,
+          "brandName": "Puma",
+          "amount": 1,
+          "selectedSize": "XS",
+          "isInWishList": false
+        }
+      ],
+      "id": 10
+    }
+  ]
+}
